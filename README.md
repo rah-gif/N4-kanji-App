@@ -6,6 +6,8 @@
 
 A modern, interactive React application designed to help students master JLPT N4 Kanji through Audio, Quizzes, and AI-driven explanations.
 
+Explore Now! : https://rah-gif.github.io/n4-kanji-app/
+
 ---
 
 ## ✨ Key Features
